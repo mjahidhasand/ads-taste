@@ -1,30 +1,208 @@
 {
-  "_note": "Searches the bot rotates through. Each category becomes references/<category>.md. Add a category or query here and the bot picks it up on restart.",
-  "categories": [
-    {"category": "social-feed",         "queries": ["instagram ad design", "facebook ad design", "social media ad creative"]},
-    {"category": "stories-vertical",    "queries": ["instagram story ad design", "tiktok ad design", "vertical ad design"]},
-    {"category": "linkedin-b2b",        "queries": ["linkedin ad design", "b2b ad creative"]},
-    {"category": "carousel",            "queries": ["carousel ad design", "instagram carousel design"]},
-    {"category": "display-banners",     "queries": ["display banner ad design", "google display ads design", "web banner ad design"]},
-    {"category": "promo-banners",       "queries": ["promotional banner design", "website banner design"]},
-    {"category": "product-ads",         "queries": ["product ad design", "product advertising poster", "product launch ad"]},
-    {"category": "sale-discount",       "queries": ["sale banner design", "discount ad design", "black friday ad design"]},
-    {"category": "app-install",         "queries": ["app ad design", "mobile app advertisement design"]},
-    {"category": "food-beverage",       "queries": ["food ad design", "beverage ad design", "restaurant ad design"]},
-    {"category": "beauty-fashion",      "queries": ["cosmetic ad design", "skincare ad design", "fashion ad design"]},
-    {"category": "tech-saas",           "queries": ["saas ad design", "tech ad creative"]},
-    {"category": "real-estate",         "queries": ["real estate ad design"]},
-    {"category": "health-fitness",      "queries": ["fitness ad design", "gym ad design"]},
-    {"category": "finance",             "queries": ["finance ad design", "bank ad design"]},
-    {"category": "education",           "queries": ["education ad design", "online course ad design"]},
-    {"category": "events-webinars",     "queries": ["event promotion poster design", "webinar banner design"]},
-    {"category": "print-posters",       "queries": ["advertising poster design", "creative print ads"]},
-    {"category": "billboards-ooh",      "queries": ["billboard design", "outdoor advertising design"]},
-    {"category": "flyers-brochures",    "queries": ["flyer design", "brochure design"]},
-    {"category": "magazine-print",      "queries": ["magazine ad design"]},
-    {"category": "minimal",             "queries": ["minimalist ad design"]},
-    {"category": "bold-typography",     "queries": ["typography ad design", "bold typography poster"]},
-    {"category": "creative-concepts",   "queries": ["creative advertising ideas", "clever ads"]},
-    {"category": "ugc-style",           "queries": ["ugc ad examples", "testimonial ad design"]}
-  ]
+ "_note": "Searches the bot rotates through. Each category becomes references/<category>.md. Add a category or query here and the bot picks it up on restart. Queries target colourful 2026 work (owner preference, 2026-11-14).",
+ "categories": [
+  {
+   "category": "social-feed",
+   "queries": [
+    "instagram ad design 2026",
+    "facebook ad design 2026",
+    "social media ad creative 2026",
+    "colorful instagram ad design 2026"
+   ]
+  },
+  {
+   "category": "stories-vertical",
+   "queries": [
+    "instagram story ad design 2026",
+    "tiktok ad design 2026",
+    "vertical ad design 2026",
+    "colorful instagram story ad design 2026"
+   ]
+  },
+  {
+   "category": "linkedin-b2b",
+   "queries": [
+    "linkedin ad design 2026",
+    "b2b ad creative 2026",
+    "colorful linkedin ad design 2026"
+   ]
+  },
+  {
+   "category": "carousel",
+   "queries": [
+    "carousel ad design 2026",
+    "instagram carousel design 2026",
+    "colorful carousel ad design 2026"
+   ]
+  },
+  {
+   "category": "display-banners",
+   "queries": [
+    "display banner ad design 2026",
+    "google display ads design 2026",
+    "web banner ad design 2026",
+    "colorful display banner ad design 2026"
+   ]
+  },
+  {
+   "category": "promo-banners",
+   "queries": [
+    "promotional banner design 2026",
+    "website banner design 2026",
+    "colorful promotional banner design 2026"
+   ]
+  },
+  {
+   "category": "product-ads",
+   "queries": [
+    "product ad design 2026",
+    "product advertising poster 2026",
+    "product launch ad 2026",
+    "colorful product ad design 2026"
+   ]
+  },
+  {
+   "category": "sale-discount",
+   "queries": [
+    "sale banner design 2026",
+    "discount ad design 2026",
+    "black friday ad design 2026",
+    "colorful sale banner design 2026"
+   ]
+  },
+  {
+   "category": "app-install",
+   "queries": [
+    "app ad design 2026",
+    "mobile app advertisement design 2026",
+    "colorful app ad design 2026"
+   ]
+  },
+  {
+   "category": "food-beverage",
+   "queries": [
+    "food ad design 2026",
+    "beverage ad design 2026",
+    "restaurant ad design 2026",
+    "colorful food ad design 2026"
+   ]
+  },
+  {
+   "category": "beauty-fashion",
+   "queries": [
+    "cosmetic ad design 2026",
+    "skincare ad design 2026",
+    "fashion ad design 2026",
+    "colorful cosmetic ad design 2026"
+   ]
+  },
+  {
+   "category": "tech-saas",
+   "queries": [
+    "saas ad design 2026",
+    "tech ad creative 2026",
+    "colorful saas ad design 2026"
+   ]
+  },
+  {
+   "category": "real-estate",
+   "queries": [
+    "real estate ad design 2026",
+    "colorful real estate ad design 2026"
+   ]
+  },
+  {
+   "category": "health-fitness",
+   "queries": [
+    "fitness ad design 2026",
+    "gym ad design 2026",
+    "colorful fitness ad design 2026"
+   ]
+  },
+  {
+   "category": "finance",
+   "queries": [
+    "finance ad design 2026",
+    "bank ad design 2026",
+    "colorful finance ad design 2026"
+   ]
+  },
+  {
+   "category": "education",
+   "queries": [
+    "education ad design 2026",
+    "online course ad design 2026",
+    "colorful education ad design 2026"
+   ]
+  },
+  {
+   "category": "events-webinars",
+   "queries": [
+    "event promotion poster design 2026",
+    "webinar banner design 2026",
+    "colorful event promotion poster design 2026"
+   ]
+  },
+  {
+   "category": "print-posters",
+   "queries": [
+    "advertising poster design 2026",
+    "creative print ads 2026",
+    "colorful advertising poster design 2026"
+   ]
+  },
+  {
+   "category": "billboards-ooh",
+   "queries": [
+    "billboard design 2026",
+    "outdoor advertising design 2026",
+    "colorful billboard design 2026"
+   ]
+  },
+  {
+   "category": "flyers-brochures",
+   "queries": [
+    "flyer design 2026",
+    "brochure design 2026",
+    "colorful flyer design 2026"
+   ]
+  },
+  {
+   "category": "magazine-print",
+   "queries": [
+    "magazine ad design 2026",
+    "colorful magazine ad design 2026"
+   ]
+  },
+  {
+   "category": "minimal",
+   "queries": [
+    "minimal colorful ad design 2026"
+   ]
+  },
+  {
+   "category": "bold-typography",
+   "queries": [
+    "typography ad design 2026",
+    "bold typography poster 2026",
+    "colorful typography ad design 2026"
+   ]
+  },
+  {
+   "category": "creative-concepts",
+   "queries": [
+    "creative advertising ideas 2026",
+    "clever ads 2026",
+    "colorful creative advertising ideas 2026"
+   ]
+  },
+  {
+   "category": "ugc-style",
+   "queries": [
+    "ugc ad examples 2026",
+    "testimonial ad design 2026",
+    "colorful ugc ad examples 2026"
+   ]
+  }
+ ]
 }
