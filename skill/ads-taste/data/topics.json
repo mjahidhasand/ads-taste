@@ -1,0 +1,30 @@
+{
+  "_note": "Searches the bot rotates through. Each category becomes references/<category>.md. Add a category or query here and the bot picks it up on restart.",
+  "categories": [
+    {"category": "social-feed",         "queries": ["instagram ad design", "facebook ad design", "social media ad creative"]},
+    {"category": "stories-vertical",    "queries": ["instagram story ad design", "tiktok ad design", "vertical ad design"]},
+    {"category": "linkedin-b2b",        "queries": ["linkedin ad design", "b2b ad creative"]},
+    {"category": "carousel",            "queries": ["carousel ad design", "instagram carousel design"]},
+    {"category": "display-banners",     "queries": ["display banner ad design", "google display ads design", "web banner ad design"]},
+    {"category": "promo-banners",       "queries": ["promotional banner design", "website banner design"]},
+    {"category": "product-ads",         "queries": ["product ad design", "product advertising poster", "product launch ad"]},
+    {"category": "sale-discount",       "queries": ["sale banner design", "discount ad design", "black friday ad design"]},
+    {"category": "app-install",         "queries": ["app ad design", "mobile app advertisement design"]},
+    {"category": "food-beverage",       "queries": ["food ad design", "beverage ad design", "restaurant ad design"]},
+    {"category": "beauty-fashion",      "queries": ["cosmetic ad design", "skincare ad design", "fashion ad design"]},
+    {"category": "tech-saas",           "queries": ["saas ad design", "tech ad creative"]},
+    {"category": "real-estate",         "queries": ["real estate ad design"]},
+    {"category": "health-fitness",      "queries": ["fitness ad design", "gym ad design"]},
+    {"category": "finance",             "queries": ["finance ad design", "bank ad design"]},
+    {"category": "education",           "queries": ["education ad design", "online course ad design"]},
+    {"category": "events-webinars",     "queries": ["event promotion poster design", "webinar banner design"]},
+    {"category": "print-posters",       "queries": ["advertising poster design", "creative print ads"]},
+    {"category": "billboards-ooh",      "queries": ["billboard design", "outdoor advertising design"]},
+    {"category": "flyers-brochures",    "queries": ["flyer design", "brochure design"]},
+    {"category": "magazine-print",      "queries": ["magazine ad design"]},
+    {"category": "minimal",             "queries": ["minimalist ad design"]},
+    {"category": "bold-typography",     "queries": ["typography ad design", "bold typography poster"]},
+    {"category": "creative-concepts",   "queries": ["creative advertising ideas", "clever ads"]},
+    {"category": "ugc-style",           "queries": ["ugc ad examples", "testimonial ad design"]}
+  ]
+}
