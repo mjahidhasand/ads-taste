@@ -1022,7 +1022,8 @@
     "events-webinars",
     "magazine-print",
     "display-banners",
-    "flyers-brochures"
+    "flyers-brochures",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "1003950941941295048",
@@ -1031,7 +1032,8 @@
     "colorful magazine ad design 2026",
     "event promotion poster design 2026",
     "colorful display banner ad design 2026",
-    "colorful flyer design 2026"
+    "colorful flyer design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "an advertisement with the word more on it in white and blue colors, against a black background",
    "url": "https://www.pinterest.com/pin/1003950941941295048/"
@@ -7173,7 +7175,8 @@
     "minimal",
     "bold-typography",
     "display-banners",
-    "stories-vertical"
+    "stories-vertical",
+    "promo-banners"
    ],
    "collected": "2026-11-18",
    "id": "1020628334312073374",
@@ -7182,7 +7185,8 @@
     "typography ad design 2026",
     "colorful display banner ad design 2026",
     "colorful instagram story ad design 2026",
-    "display banner ad design 2026"
+    "display banner ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the glassophism is designed to look like an image",
    "url": "https://www.pinterest.com/pin/1020628334312073374/"
@@ -15887,12 +15891,14 @@
   },
   "1050675788061282578": {
    "categories": [
-    "bold-typography"
+    "bold-typography",
+    "promo-banners"
    ],
    "collected": "2026-11-18",
    "id": "1050675788061282578",
    "queries": [
-    "colorful typography ad design 2026"
+    "colorful typography ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the logo for google cloud's genni at work",
    "url": "https://www.pinterest.com/pin/1050675788061282578/"
@@ -36282,12 +36288,14 @@
   },
   "1095219203171114401": {
    "categories": [
-    "finance"
+    "finance",
+    "promo-banners"
    ],
    "collected": "2026-11-22",
    "id": "1095219203171114401",
    "queries": [
-    "colorful finance ad design 2026"
+    "colorful finance ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "a man standing in front of an advertisement for pay - avogago on the wall",
    "url": "https://www.pinterest.com/pin/1095219203171114401/"
@@ -50589,7 +50597,8 @@
     "colorful saas ad design 2026",
     "creative advertising ideas 2026",
     "colorful product ad design 2026",
-    "product advertising poster 2026"
+    "product advertising poster 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "🔥 A Anthropic lançou o Claude Design, e o mercado já sentiu. A Figma caiu 80% desde o pico pós-IPO. O CPO da Anthropic saiu do board da Figma dias antes do lançamento. Mas uma coisa não muda: a IA cria o que já existe. O",
    "url": "https://www.pinterest.com/pin/1112741020456743576/"
@@ -64714,7 +64723,8 @@
     "magazine-print",
     "minimal",
     "print-posters",
-    "stories-vertical"
+    "stories-vertical",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "1131318368919554829",
@@ -64724,7 +64734,8 @@
     "colorful magazine ad design 2026",
     "minimal colorful ad design 2026",
     "creative print ads 2026",
-    "colorful instagram story ad design 2026"
+    "colorful instagram story ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "two women hugging each other on the couch in front of a window with an orange turban",
    "url": "https://www.pinterest.com/pin/1131318368919554829/"
@@ -75583,7 +75594,8 @@
     "print-posters",
     "magazine-print",
     "minimal",
-    "product-ads"
+    "product-ads",
+    "promo-banners"
    ],
    "collected": "2026-11-18",
    "id": "1145251380281176213",
@@ -75591,7 +75603,8 @@
     "colorful advertising poster design 2026",
     "colorful magazine ad design 2026",
     "minimal colorful ad design 2026",
-    "colorful product ad design 2026"
+    "colorful product ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "a woman wearing sunglasses and a headband with the words be bold in front of her",
    "url": "https://www.pinterest.com/pin/1145251380281176213/"
@@ -76525,12 +76538,14 @@
   },
   "1146236542706389874": {
    "categories": [
-    "sale-discount"
+    "sale-discount",
+    "promo-banners"
    ],
    "collected": "2026-11-21",
    "id": "1146236542706389874",
    "queries": [
-    "colorful sale banner design 2026"
+    "colorful sale banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "three pricing cards with the same price for each item in different colors and font styles",
    "url": "https://www.pinterest.com/pin/1146236542706389874/"
@@ -78515,6 +78530,18 @@
    "title": "the real estate flyer is shown in blue and white with an image of skyscrapers",
    "url": "https://www.pinterest.com/pin/1148629079998442111/"
   },
+  "1148629080000427098": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "1148629080000427098",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "the purple and black brochure is displayed in several different positions, including an image of",
+   "url": "https://www.pinterest.com/pin/1148629080000427098/"
+  },
   "1148699448740054846": {
    "categories": [
     "flyers-brochures"
@@ -79487,6 +79514,18 @@
    ],
    "title": "an image of a web page with different colors and font on the front, side and back",
    "url": "https://www.pinterest.com/pin/1149825348643712469/"
+  },
+  "1149825348644004630": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "1149825348644004630",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "several different types of business cards on a purple and blue background",
+   "url": "https://www.pinterest.com/pin/1149825348644004630/"
   },
   "1149825348646517439": {
    "categories": [
@@ -80487,7 +80526,8 @@
    "id": "1151584567295025517",
    "queries": [
     "web banner ad design 2026",
-    "promotional banner design 2026"
+    "promotional banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "a white ring with words on it and blue tape in the middle that says,",
    "url": "https://www.pinterest.com/pin/1151584567295025517/"
@@ -82705,12 +82745,14 @@
   },
   "130534089199315573": {
    "categories": [
-    "events-webinars"
+    "events-webinars",
+    "promo-banners"
    ],
    "collected": "2026-11-17",
    "id": "130534089199315573",
    "queries": [
-    "colorful event promotion poster design 2026"
+    "colorful event promotion poster design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the logo for resilincem is shown in blue and purple colors with bright lights",
    "url": "https://www.pinterest.com/pin/130534089199315573/"
@@ -84390,6 +84432,18 @@
    ],
    "title": "an image of a website page with the words bx and other information on it",
    "url": "https://www.pinterest.com/pin/17944098512740374/"
+  },
+  "179721841371249448": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "179721841371249448",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "an advertisement for a design lovers sale with colorful flowers and stars on it, in the background",
+   "url": "https://www.pinterest.com/pin/179721841371249448/"
   },
   "180144053841228465": {
    "categories": [
@@ -91872,14 +91926,16 @@
    "categories": [
     "carousel",
     "events-webinars",
-    "creative-concepts"
+    "creative-concepts",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "31314159903873553",
    "queries": [
     "colorful carousel ad design 2026",
     "colorful event promotion poster design 2026",
-    "colorful creative advertising ideas 2026"
+    "colorful creative advertising ideas 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "two business cards with an abstract design on the front and back, both in blue and purple",
    "url": "https://www.pinterest.com/pin/31314159903873553/"
@@ -97218,13 +97274,15 @@
   },
   "371828512996674384": {
    "categories": [
-    "sale-discount"
+    "sale-discount",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "371828512996674384",
    "queries": [
     "sale banner design 2026",
-    "colorful sale banner design 2026"
+    "colorful sale banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the mega sale is on and it's up to 50 % off with this special offer",
    "url": "https://www.pinterest.com/pin/371828512996674384/"
@@ -101150,13 +101208,15 @@
   "413697915781433980": {
    "categories": [
     "display-banners",
-    "product-ads"
+    "product-ads",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "413697915781433980",
    "queries": [
     "colorful display banner ad design 2026",
-    "colorful product ad design 2026"
+    "colorful product ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the website for big flavor energy is displayed with lemons, strawberries and strawberry",
    "url": "https://www.pinterest.com/pin/413697915781433980/"
@@ -109782,13 +109842,15 @@
   },
   "461900505525025929": {
    "categories": [
-    "events-webinars"
+    "events-webinars",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "461900505525025929",
    "queries": [
     "colorful event promotion poster design 2026",
-    "event promotion poster design 2026"
+    "event promotion poster design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the poster for the international film festival is shown in black and orange colors with an abstract background",
    "url": "https://www.pinterest.com/pin/461900505525025929/"
@@ -109828,6 +109890,18 @@
    ],
    "title": "an orange and gray brochure is shown on top of a white background with yellow accents",
    "url": "https://www.pinterest.com/pin/461900505558539791/"
+  },
+  "462252349277195027": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "462252349277195027",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "an advertisement for the new mobile game run me by quatangg, which is being",
+   "url": "https://www.pinterest.com/pin/462252349277195027/"
   },
   "462252349279303441": {
    "categories": [
@@ -116875,6 +116949,18 @@
    "title": "the back side of a yellow and black business card that reads feed back with five stars",
    "url": "https://www.pinterest.com/pin/531002612334633812/"
   },
+  "531565562258776225": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "531565562258776225",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "the blue and yellow background has many different lines on it, including one for each section",
+   "url": "https://www.pinterest.com/pin/531565562258776225/"
+  },
   "532480355957676096": {
    "categories": [
     "social-feed"
@@ -117293,12 +117379,14 @@
   },
   "536350636883666638": {
    "categories": [
-    "sale-discount"
+    "sale-discount",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "536350636883666638",
    "queries": [
-    "colorful sale banner design 2026"
+    "colorful sale banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "two colorful banners with the words special offer and an image of a bright yellow, purple and",
    "url": "https://www.pinterest.com/pin/536350636883666638/"
@@ -117306,13 +117394,15 @@
   "536350636883896933": {
    "categories": [
     "sale-discount",
-    "display-banners"
+    "display-banners",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "536350636883896933",
    "queries": [
     "colorful sale banner design 2026",
-    "colorful display banner ad design 2026"
+    "colorful display banner ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "two sale banners with abstract shapes on pink and purple background, one is for the new season",
    "url": "https://www.pinterest.com/pin/536350636883896933/"
@@ -117646,13 +117736,15 @@
   "537054324334493731": {
    "categories": [
     "events-webinars",
-    "flyers-brochures"
+    "flyers-brochures",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "537054324334493731",
    "queries": [
     "colorful event promotion poster design 2026",
-    "colorful flyer design 2026"
+    "colorful flyer design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "a poster with the words chr oma on it",
    "url": "https://www.pinterest.com/pin/537054324334493731/"
@@ -120514,13 +120606,15 @@
   "570338740331619983": {
    "categories": [
     "creative-concepts",
-    "product-ads"
+    "product-ads",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "570338740331619983",
    "queries": [
     "colorful creative advertising ideas 2026",
-    "product launch ad 2026"
+    "product launch ad 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "an advertisement for shell ka rada featuring a man with his arms crossed",
    "url": "https://www.pinterest.com/pin/570338740331619983/"
@@ -122439,13 +122533,15 @@
   "586101339051284956": {
    "categories": [
     "events-webinars",
-    "stories-vertical"
+    "stories-vertical",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "586101339051284956",
    "queries": [
     "colorful event promotion poster design 2026",
-    "colorful instagram story ad design 2026"
+    "colorful instagram story ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "an advertisement for some thing is coming with purple and yellow lettering on the bottom corner",
    "url": "https://www.pinterest.com/pin/586101339051284956/"
@@ -125297,6 +125393,18 @@
    ],
    "title": "This contains an image of: Skincare Holiday Sets",
    "url": "https://www.pinterest.com/pin/602849100129872373/"
+  },
+  "602919468915549803": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "602919468915549803",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "an event with the words expo 2020 and images of people in business suits on it",
+   "url": "https://www.pinterest.com/pin/602919468915549803/"
   },
   "602989837624258402": {
    "categories": [
@@ -140706,7 +140814,8 @@
    "collected": "2026-11-16",
    "id": "682013937359975453",
    "queries": [
-    "promotional banner design 2026"
+    "promotional banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the refer and earn button on an iphone's home screen, with colorful background",
    "url": "https://www.pinterest.com/pin/682013937359975453/"
@@ -140767,7 +140876,8 @@
    "collected": "2026-11-16",
    "id": "682576887272150275",
    "queries": [
-    "promotional banner design 2026"
+    "promotional banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "two banners with the words best sale in blue and orange colors on them, one is for",
    "url": "https://www.pinterest.com/pin/682576887272150275/"
@@ -142153,6 +142263,18 @@
    "title": "the poster for an art exhibition is shown in black and white, with colorful swirls",
    "url": "https://www.pinterest.com/pin/689402655496242223/"
   },
+  "689824867909212315": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "689824867909212315",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "two new year party banners with abstract shapes",
+   "url": "https://www.pinterest.com/pin/689824867909212315/"
+  },
   "690317449160202003": {
    "categories": [
     "education"
@@ -143381,6 +143503,18 @@
    ],
    "title": "an advertisement for your brand with oranges and strawberries",
    "url": "https://www.pinterest.com/pin/697424692337195982/"
+  },
+  "697635798523183452": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "697635798523183452",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "two colorful banners with abstract shapes on the front and back of each banner, one is for",
+   "url": "https://www.pinterest.com/pin/697635798523183452/"
   },
   "697635798553391016": {
    "categories": [
@@ -146351,6 +146485,18 @@
    "title": "an advertisement with the words for rest in front of a green landscape and foggy sky",
    "url": "https://www.pinterest.com/pin/711779916147685124/"
   },
+  "711850284864235885": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "711850284864235885",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "three different ads for cosmetics and beauty products, with the same price tag on them",
+   "url": "https://www.pinterest.com/pin/711850284864235885/"
+  },
   "711850284864235898": {
    "categories": [
     "promo-banners"
@@ -148196,6 +148342,18 @@
    ],
    "title": "two people are smiling for the camera and one is looking at them with glasses on",
    "url": "https://www.pinterest.com/pin/720646377917450444/"
+  },
+  "720716746601711761": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "720716746601711761",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "two colorful banners with rounded shapes on the bottom, and an abstract background in the middle",
+   "url": "https://www.pinterest.com/pin/720716746601711761/"
   },
   "720716746683404153": {
    "categories": [
@@ -150492,7 +150650,8 @@
     "linkedin-b2b",
     "print-posters",
     "magazine-print",
-    "stories-vertical"
+    "stories-vertical",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "733594226844593119",
@@ -150503,7 +150662,8 @@
     "colorful linkedin ad design 2026",
     "colorful advertising poster design 2026",
     "colorful magazine ad design 2026",
-    "colorful instagram story ad design 2026"
+    "colorful instagram story ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "a poster with the words what we do on it",
    "url": "https://www.pinterest.com/pin/733594226844593119/"
@@ -151541,6 +151701,18 @@
    ],
    "title": "an image of people doing different exercises on the same machine as well as one man and woman",
    "url": "https://www.pinterest.com/pin/738520038938008797/"
+  },
+  "738590407684269076": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "738590407684269076",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "Four colorful banner templates using abstract vector shapes — coral red with bold typography, mint green horizontal banner, orange square layout, and blue square card. Each features large headline text with organic shape",
+   "url": "https://www.pinterest.com/pin/738590407684269076/"
   },
   "738871882653580712": {
    "categories": [
@@ -155945,7 +156117,8 @@
    "collected": "2026-11-16",
    "id": "765823111648002382",
    "queries": [
-    "promotional banner design 2026"
+    "promotional banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "an advertisement for the sale of electronics in different colors and sizes, with text that reads free shipping",
    "url": "https://www.pinterest.com/pin/765823111648002382/"
@@ -158291,12 +158464,14 @@
   },
   "778348748073169164": {
    "categories": [
-    "sale-discount"
+    "sale-discount",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "778348748073169164",
    "queries": [
-    "colorful sale banner design 2026"
+    "colorful sale banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "a sale sign with the words spring sale on it",
    "url": "https://www.pinterest.com/pin/778348748073169164/"
@@ -160880,7 +161055,8 @@
    "id": "794181715585226570",
    "queries": [
     "colorful display banner ad design 2026",
-    "promotional banner design 2026"
+    "promotional banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "⚡ 𝗠𝗮𝗸𝗲 𝗲𝘃𝗲𝗿𝘆 𝗲𝗺𝗮𝗶𝗹 𝗱𝗲𝗹𝗶𝗰𝗶𝗼𝘂𝘀𝗹𝘆 𝗼𝗻-𝗯𝗿𝗮𝗻𝗱 𝘄𝗶𝘁𝗵 𝗥𝗮𝗽𝘀𝗮 𝗘𝗺𝗮𝗶𝗹 𝗚𝗿𝗮𝗽𝗵𝗶𝗰𝘀. 📨 ⬇️ Link in bio → Includes 50+ customizable design blocks — mix and match to create stunning emails that capture your brand’s essence. ✷ 12 Banners ✷ 12",
    "url": "https://www.pinterest.com/pin/794181715585226570/"
@@ -161610,6 +161786,18 @@
    ],
    "title": "an advertisement for a furniture store with images of chairs, tables and vases on it",
    "url": "https://www.pinterest.com/pin/798896421446647128/"
+  },
+  "798966790138839076": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "798966790138839076",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "This contains an image of:",
+   "url": "https://www.pinterest.com/pin/798966790138839076/"
   },
   "798966790151950374": {
    "categories": [
@@ -164555,6 +164743,18 @@
    ],
    "title": "six people are featured in the logo for their show, which features four different colors and shapes",
    "url": "https://www.pinterest.com/pin/817614507364495444/"
+  },
+  "817684876070574192": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "817684876070574192",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "two abstract banners with circles and dots on the bottom one is blue, green, yellow and pink",
+   "url": "https://www.pinterest.com/pin/817684876070574192/"
   },
   "817684876131323827": {
    "categories": [
@@ -167690,7 +167890,8 @@
    "categories": [
     "events-webinars",
     "display-banners",
-    "billboards-ooh"
+    "billboards-ooh",
+    "promo-banners"
    ],
    "collected": "2026-11-14",
    "id": "833517843568176087",
@@ -167698,7 +167899,8 @@
     "webinar banner design 2026",
     "colorful display banner ad design 2026",
     "display banner ad design 2026",
-    "colorful billboard design 2026"
+    "colorful billboard design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the big product launch title is displayed in front of an image of a cityscape",
    "url": "https://www.pinterest.com/pin/833517843568176087/"
@@ -174319,14 +174521,16 @@
   "865394884661349251": {
    "categories": [
     "beauty-fashion",
-    "product-ads"
+    "product-ads",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "865394884661349251",
    "queries": [
     "colorful cosmetic ad design 2026",
     "cosmetic ad design 2026",
-    "colorful product ad design 2026"
+    "colorful product ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "three different types of facial care products floating in the air on a blue sky background",
    "url": "https://www.pinterest.com/pin/865394884661349251/"
@@ -175986,6 +176190,18 @@
    ],
    "title": "a man sitting on top of a pile of luggage next to an advertisement for two square",
    "url": "https://www.pinterest.com/pin/869476271834899163/"
+  },
+  "869546640553848388": {
+   "categories": [
+    "promo-banners"
+   ],
+   "collected": "2026-11-22",
+   "id": "869546640553848388",
+   "queries": [
+    "colorful promotional banner design 2026"
+   ],
+   "title": "This contains an image of:",
+   "url": "https://www.pinterest.com/pin/869546640553848388/"
   },
   "869617009309675268": {
    "categories": [
@@ -178364,7 +178580,8 @@
     "magazine-print",
     "beauty-fashion",
     "minimal",
-    "print-posters"
+    "print-posters",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "876864989959781377",
@@ -178372,7 +178589,8 @@
     "colorful magazine ad design 2026",
     "fashion ad design 2026",
     "minimal colorful ad design 2026",
-    "colorful advertising poster design 2026"
+    "colorful advertising poster design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "two women in green and blue are standing next to each other with the words woman fashion on them",
    "url": "https://www.pinterest.com/pin/876864989959781377/"
@@ -179921,7 +180139,8 @@
    "collected": "2026-11-18",
    "id": "882001908308929466",
    "queries": [
-    "website banner design 2026"
+    "website banner design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "the landing page for an internet site",
    "url": "https://www.pinterest.com/pin/882001908308929466/"
@@ -192977,12 +193196,14 @@
   },
   "925419423440956500": {
    "categories": [
-    "display-banners"
+    "display-banners",
+    "promo-banners"
    ],
    "collected": "2026-11-15",
    "id": "925419423440956500",
    "queries": [
-    "colorful display banner ad design 2026"
+    "colorful display banner ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "High-conversion landing page design featuring a clean layout, persuasive call-to-action buttons, and engaging visuals.",
    "url": "https://www.pinterest.com/pin/925419423440956500/"
@@ -215582,7 +215803,8 @@
     "instagram ad design 2026",
     "promotional banner design 2026",
     "web banner ad design 2026",
-    "colorful app ad design 2026"
+    "colorful app ad design 2026",
+    "colorful promotional banner design 2026"
    ],
    "title": "🆕 Ми тут з дружиною новий люксовий кейс зліпили! Показую в пості декілька фрагментів. На Behance побачите більше анімацій, більше ефектності та більш розгорнутий варіант презентації самого кейсу звісно) Вже доступний до ",
    "url": "https://www.pinterest.com/pin/999025129886125261/"
